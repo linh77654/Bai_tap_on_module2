@@ -49,7 +49,6 @@ public class VehicleManagement {
 
                 case 3:
                     System.out.println("Thoát chương trình.");
-                    scanner.close();
                     return;
 
                 default:
